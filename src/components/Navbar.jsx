@@ -53,7 +53,7 @@ export default function Navigation() {
       >
         <Navbar.Brand onClick={() => (window.location = '/#about')}>
           <div className='d-flex flex-row p-1'>
-            <span className='d-block d-lg-none ps-2'>Michael Lai</span>
+            <span className='d-block d-lg-none ps-2'>Robel Lager</span>
             <span className='d-block d-lg-none ps-3'>
               <div className="SunMoon" onClick={() => setIsDarkMode(!isDarkMode)}>
                 <div>{isDarkMode === true ? <CgSun color='#ffc107' size='2rem' /> : <BiMoon color="#007BFF" size='2rem' />}</div>
@@ -64,7 +64,7 @@ export default function Navigation() {
             <motion.img
               className='img-fluid img-profile rounded-circle mx-auto mb-2'
               src={Avatar}
-              alt='Michael Lai'
+              alt='Robel Lager'
               drag
               dragConstraints={{ left: 0, top: 0, right: 0, bottom: 0 }}
               dragElastic={0.1}

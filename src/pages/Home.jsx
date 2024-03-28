@@ -1,6 +1,6 @@
 import React from "react"
 import Section from "../components/Section"
-import ResumePDF from "../assets/MichaelResume.pdf"
+import ResumePDF from "../assets/RobelResume.pdf"
 import SGCartoon from "../assets/myavatar.jpg"
 import { FaGithub, FaTelegram } from "react-icons/fa"
 
@@ -23,10 +23,6 @@ export default function Home() {
       href: "https://github.com/titanrtx0714",
       icon: <FaGithub />,
     },
-    {
-      href: "https://t.me/titanrtxtitan",
-      icon: <FaTelegram />,
-    },
   ]
 
   return (
@@ -34,7 +30,7 @@ export default function Home() {
       <div className='row justify-content-between'>
         <div className='col-md-6 order-last order-lg-first' data-aos='fade-up'>
           <h1 className="mb-0">
-            Michael
+            Robel
             <span className="text-primary" style={{paddingLeft: '2vw'}}>Lai</span>
           </h1>
           <div className="subheading mb-3">
@@ -52,7 +48,7 @@ export default function Home() {
         <div className='col-md-3 mb-5 mb-lg-0' data-aos='fade-up'>
           <img
             src={SGCartoon}
-            alt="Michael Cartoon"
+            alt="Robel Cartoon"
             style={{height: '40vh', width: '40vh'}}
           />
         </div>

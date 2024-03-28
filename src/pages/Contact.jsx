@@ -90,7 +90,7 @@ const Contact = () => {
                   <span>
                     <ImLocation />
                   </span>
-                  <p>86 Sai Yee St, Mong Kok, Hong Kong</p>
+                  <p>Phoenix, AZ United States</p>
                 </div>
               </div>
 
@@ -99,7 +99,7 @@ const Contact = () => {
                   <span>
                     <FaPhoneAlt />
                   </span>
-                  <p>+91 7044941540</p>
+                  <p>+1 (843)-535-4560</p>
                 </div>
               </div>
             </div>
@@ -108,7 +108,7 @@ const Contact = () => {
       </div>
 
       <p className='py-3 m-0 mt-5 text-center text-secondary'>
-        Made with ❤ by Michael
+        Made with ❤ by Robel
       </p>
     </Section>
   )

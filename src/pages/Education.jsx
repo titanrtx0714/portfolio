@@ -13,12 +13,12 @@ export default function Education() {
           <div>Computer Science, Mathematics, Data Structures, Algorithms, OOPs, OS, DBMS, Web Development, Big Data</div>
           <img
             src={MasterDegree}
-            alt="Michael Cartoon"
+            alt="Robel Cartoon"
             style={{height: '40vh', width: '60vh'}}
           />
         </div>
         <div className="flex-shrink-0">
-          <span className="text-primary">April 2012 - August 2017</span>
+          <span className="text-primary">September 2010 - June 2014</span>
         </div>
       </div>
     </Section>

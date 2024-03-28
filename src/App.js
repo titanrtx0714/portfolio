@@ -30,10 +30,10 @@ function App() {
           ></meta>
           <meta
             name="description"
-            content="Michael Lai - Software Developer."
+            content="Robel Lager - Software Developer."
           />
-          <meta name="author" content="Michael Lai" />
-          <title>Michael Lai - Portfolio</title>
+          <meta name="author" content="Robel Lager" />
+          <title>Robel Lager - Portfolio</title>
         </Helmet>
         <div id="wrapper">
           <Navbar />
