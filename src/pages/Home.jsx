@@ -31,7 +31,7 @@ export default function Home() {
         <div className='col-md-6 order-last order-lg-first' data-aos='fade-up'>
           <h1 className="mb-0">
             Robel
-            <span className="text-primary" style={{paddingLeft: '2vw'}}>Lai</span>
+            <span className="text-primary" style={{paddingLeft: '2vw'}}>Lager</span>
           </h1>
           <div className="subheading mb-3">
             <span style={{paddingRight: '0.3vw'}}>
