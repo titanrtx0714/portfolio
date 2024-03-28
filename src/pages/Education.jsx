@@ -9,13 +9,8 @@ export default function Education() {
         <div className="flex-grow-1">
           <h3 className="mb-0">The University of Toronto</h3>
           <div className="subheading mb-3">APPLIED SCIENCE AND INFORMATION TECHNOLOGY</div>
-          <div className="subheading mb-4">Master of Applied Science</div>
+          <div className="subheading mb-4">Bachelor of Computer Science</div>
           <div>Computer Science, Mathematics, Data Structures, Algorithms, OOPs, OS, DBMS, Web Development, Big Data</div>
-          <img
-            src={MasterDegree}
-            alt="Robel Cartoon"
-            style={{height: '40vh', width: '60vh'}}
-          />
         </div>
         <div className="flex-shrink-0">
           <span className="text-primary">September 2010 - June 2014</span>
