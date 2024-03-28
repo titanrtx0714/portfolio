@@ -32,8 +32,8 @@ export default [
     img: Arbitrage_Bot,
     title: "Arbitrage Bot",
     desc: "Develop Smart Contract of arbitrage bot between sushiswap and uniswap for the selected token using Ether.",
-    demo: "https://github.com/sagnikghoshcr7/Breast-Cancer-Prediction/blob/master/model.ipynb",
-    source: "https://github.com/sagnikghoshcr7/Breast-Cancer-Prediction",
+    demo: "https://github.com/titanrtx0714/Arbitrage_bot_between_sushiswap_and_uniswap",
+    source: "https://github.com/titanrtx0714/Arbitrage_bot_between_sushiswap_and_uniswap",
   },
   {
     img: Aggregator_AI,

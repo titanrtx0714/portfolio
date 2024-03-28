@@ -1,6 +1,5 @@
 /* Globals */
-@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700');
-:root {
+root {
   --primary: #bd5d38;
   --gradient: linear-gradient(90deg, #bd5d38, #ff6e36);
 }
